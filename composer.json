@@ -1,0 +1,27 @@
+{
+    "name": "plugmystore/amazon-mws-feeds",
+    "description": "Amazon MWS Feeds API with Composer integration",
+    "license": "Apache-2.0",
+    "keywords": [
+        "amazon",
+        "mws",
+        "api",
+        "feeds"
+    ],
+    "homepage": "https://github.com/plugmystore/amazon-mws-feeds",
+    "authors": [
+        {
+            "name": "Yann Milin",
+            "email": "yann@plugmystore.com",
+            "homepage": "http://plugmystore.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.3"
+    },
+    "autoload": {
+        "classmap": [
+            "src/"
+        ]
+    }
+}
