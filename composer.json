@@ -1,5 +1,5 @@
 {
-    "name": "expcommerce//amazon-mws-feeds",
+    "name": "expcommerce/amazon-mws-feeds",
     "description": "Amazon MWS Feeds API with Composer integration",
     "license": "Apache-2.0",
     "keywords": [
