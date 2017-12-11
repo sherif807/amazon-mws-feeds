@@ -1,5 +1,5 @@
 {
-    "name": "expcommerce/amazon-mws-feeds",
+    "name": "sherif807/amazon-mws-feeds",
     "description": "Amazon MWS Feeds API with Composer integration",
     "license": "Apache-2.0",
     "keywords": [
@@ -11,8 +11,8 @@
     "homepage": "https://github.com/c1tru55/amazon-mws-feeds",
     "authors": [
         {
-            "name": "c1tru55",
-            "homepage": "http://expcommerce.com"
+            "name": "Sherif Badawy",
+            "homepage": ""
         }
     ],
     "require": {
